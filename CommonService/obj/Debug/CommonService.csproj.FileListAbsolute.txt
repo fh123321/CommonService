@@ -1,0 +1,6 @@
+C:\Users\qpoom\source\repos\CommonService\CommonService\bin\Debug\CommonService.dll
+C:\Users\qpoom\source\repos\CommonService\CommonService\bin\Debug\CommonService.pdb
+C:\Users\qpoom\source\repos\CommonService\CommonService\obj\Debug\CommonService.csproj.CoreCompileInputs.cache
+C:\Users\qpoom\source\repos\CommonService\CommonService\obj\Debug\CommonService.dll
+C:\Users\qpoom\source\repos\CommonService\CommonService\obj\Debug\CommonService.pdb
+C:\Users\qpoom\source\repos\CommonService\CommonService\obj\Debug\CommonService.csprojResolveAssemblyReference.cache
